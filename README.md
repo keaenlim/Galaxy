@@ -48,8 +48,8 @@ Ensure you have the following installed:
 - **Spacebar / Tap (Mobile)**: Start the game or restart after game over
 
 ## 📸 Screenshots
-![Galaxy Game Start](galaxy.png)
-![Galaxy Game Game End](galaxy3.png)
+![Galaxy Game Start](galaxy.PNG)
+![Galaxy Game Game End](galaxy3.PNG)
 
 ## 🔊 Audio Assets
 The game includes various sound effects and background music:
