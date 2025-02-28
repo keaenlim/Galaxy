@@ -1,7 +1,7 @@
 # 🌌 Galaxy Game
 
 ## 🎮 About the Game
-Galaxy is a fast-paced, visually engaging **endless runner game** built using the **Kivy** framework in Python. The player controls a spaceship navigating through an ever-changing grid while avoiding obstacles and earning points. The game features dynamic visuals, immersive sound effects, and smooth controls optimized for both desktop and mobile devices.
+Galaxy is a fast-paced, visually engaging **endless runner game** built using the **Kivy** framework in Python. The player controls a spaceship navigating through an ever-changing grid while avoiding obstacles and earning points. The game features dynamic visuals, immersive sound effects, and smooth controls optimized for both desktop and mobile devices. To be honest, this game was hard to conceptualise and create but I had alot of fun doing so, and learnt alot!
 
 ## 🚀 Features
 - **Smooth Controls:** Keyboard support for desktop and touch-based controls for mobile.
