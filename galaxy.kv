@@ -1,0 +1,22 @@
+#:import menu menu
+MainWidget:
+
+<MainWidget>:
+    canvas.before:
+        Rectangle:
+            size: self.size
+            source: 'images/bg1.jpg'            # can't just use the image directly if not the image will be on top of the interface
+    menu_widget: menu_widget                    # calling the menu_widget object property
+    perspective_point_x: self.width/2           # because the perspective point is binding due to the Numeric Property, it will automatically be binded/modified when you define it in the KV file to your PY file
+    perspective_point_y: self.height * 0.75     # so the value will get called regardless of whether it is from the KV or PY file
+
+    MenuWidget:
+        id: menu_widget
+
+    Label:
+        text: root.score_txt                    # don't need to use parent because the parent of the menu is the main widget
+        font_size: dp(20)
+        font_name: 'fonts/Eurostile.ttf'
+        size_hint: .18, .2
+        pos_hint: {"x": 0, "top": 1}
+
