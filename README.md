@@ -49,7 +49,8 @@ Ensure you have the following installed:
 
 ## 📸 Screenshots
 ![Galaxy Game Start](galaxy.PNG)
-![Galaxy Game Game End](galaxy3.PNG)
+![Galaxy Game Gameplay](galaxy3.PNG)
+![Galaxy Game End](galaxy2.PNG)
 
 ## 🔊 Audio Assets
 The game includes various sound effects and background music:
